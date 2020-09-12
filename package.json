@@ -1,0 +1,16 @@
+{
+	"name": "Chess_Online",
+	"version": "1.0.0",
+	"description": "Real-time portal to play chess",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "Kautsubh Tripathi",
+	"license": "ISC",
+	"dependencies": {
+		"body-parser": "^1.18.3",
+		"express": "^4.17.1",
+		"socket.io": "^2.3.0"
+	}
+}
