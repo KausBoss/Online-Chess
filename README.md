@@ -1,2 +1,1 @@
-﻿# Online-Chess
- https://chesstoday.herokuapp.com/
+﻿https://online-chess-374113.uc.r.appspot.com/
